@@ -1,4 +1,0 @@
-C:/proga/OS/OSLab5/CMakeFiles/ALL_BUILD.dir
-C:/proga/OS/OSLab5/CMakeFiles/ZERO_CHECK.dir
-C:/proga/OS/OSLab5/OSLab5/CMakeFiles/OSLab5.dir
-C:/proga/OS/OSLab5/OSLab5/CMakeFiles/ALL_BUILD.dir
