@@ -1,5 +1,0 @@
-C:/proga/OS/OSLab5/out/build/x64-Debug/CMakeFiles/edit_cache.dir
-C:/proga/OS/OSLab5/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
-C:/proga/OS/OSLab5/out/build/x64-Debug/OSLab5/CMakeFiles/OSLab5.dir
-C:/proga/OS/OSLab5/out/build/x64-Debug/OSLab5/CMakeFiles/edit_cache.dir
-C:/proga/OS/OSLab5/out/build/x64-Debug/OSLab5/CMakeFiles/rebuild_cache.dir
